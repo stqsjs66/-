@@ -79,7 +79,9 @@ Debian12从二进制文件下载安装consign：
 ![Debian12从二进制文件安装：](https://github.com/stqsjs66/-/raw/img/img/2.png)
 
 验证安装：
+
 ![Debian12从二进制文件安装：](https://github.com/stqsjs66/-/raw/img/img/3.png)
+
 至此consign安装完成。
 
 ## 四、签名与验证实操
